@@ -39,7 +39,14 @@ function App() {
           />
         ))}
       </ul>
-       <a href="https://prasanth-c-codes.github.io/Demo-ReactJs/">GitHub</a>
+      <div className="link-container">
+        <a
+          href="https://github.com/Prasanth-C-Codes/Demo-ReactJs"
+          target="_blank"
+          rel="noreferrer"
+        >  GitHub
+        </a>
+      </div>
     </div>
   );
 }

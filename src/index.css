@@ -13,6 +13,15 @@ body {
   background: radial-gradient(#27212e, #221530);
   color: #d9c9ee;
 }
+a {
+  color: whitesmoke;
+  display: inline-block;
+}
+.link-container {
+  display: flex;
+  justify-content: center;
+}
+
 
 header {
   padding: 2rem;
